@@ -1,16 +1,24 @@
-## Hi there 👋
+### 🖐 Hi, I’m Sandra!
 
-<!--
-**MstowskaSandra/MstowskaSandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m a self-taught developer from Poland, who swapped a dog-leash for a keyboard and set out to become a frontend developer.
 
-Here are some ideas to get you started:
+💻 I work with **JavaScript**, and **React.js** – bringing ideas to life with creativity, enthusiasm, and a love for building beautiful, responsive UIs 🎨✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐶 I ran my own dog training school for 5 years as a certified canine behaviorist – now I dream of building an app to help dog owners train their pups 🐕📱
+
+🌍 In my free time, you’ll find me hiking mountain trails with my dog or exploring new places.
+
+🚀 I’m currently looking for my first opportunity in tech – eager to learn, grow, and build great things as a frontend developer!
+
+---
+
+### 🛠️ Tech Stack:
+
+- JavaScript (ES6+)
+- HTML5, CSS3  
+- React.js  
+- Redux Toolkit, Redux-Saga  
+- Styled Components, Tailwind CSS  
+- Git, GitHub  
+- REST APIs  
+- Responsive Design  
