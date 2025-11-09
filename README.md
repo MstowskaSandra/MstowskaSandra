@@ -18,12 +18,14 @@ regularly improve my skills under the guidance of experienced developers from De
 
 ### 🛠️ Tech Stack:
 
-- JavaScript (ES6+) - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- HTML5, CSS3  
-- React.js  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React.js
-- Redux Toolkit, Redux-Saga  
-- Styled Components, Tailwind CSS  
-- Git, GitHub  
-- REST APIs  
-- Responsive Design
-- Jest
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black) JavaScript  
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) HTML5  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white) CSS3  
+- ![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black) React.js  
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=white) Redux Toolkit  
+- ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=plastic&logo=styled-components&logoColor=white) Styled Components  
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white) Tailwind CSS  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white) Git  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) GitHub  
+- ![REST API](https://img.shields.io/badge/REST_API-000000?style=plastic) REST APIs  
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white) Jest
