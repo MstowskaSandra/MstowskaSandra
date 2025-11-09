@@ -14,8 +14,12 @@
 ---
 
 ## 🧠 Mentoring
-I have been actively participating in a frontend development mentoring program since July 2025, which allows me to
-regularly improve my skills under the guidance of experienced developers from Devmentor.pl
+Started a full-time Frontend mentoring journey under the guidance of devmentor.pl.  
+Focused on building real-world projects and improving coding practices in JavaScript, React, HTML, and CSS.  
+The program emphasized: 
+- clean code
+- problem-solving
+- technical growth through regular feedback, code reviews, and hands-on learning tasks.
 
 ### 🛠️ Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,tailwind,ts,git,github,jest,linkedin)](https://skillicons.dev)
