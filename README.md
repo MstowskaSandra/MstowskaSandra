@@ -12,13 +12,18 @@
 
 ---
 
+## 🧠 Mentoring
+I have been actively participating in a frontend development mentoring program since July 2025, which allows me to
+regularly improve my skills under the guidance of experienced developers from Devmentor.pl
+
 ### 🛠️ Tech Stack:
 
-- JavaScript (ES6+)
+- JavaScript (ES6+) - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - HTML5, CSS3  
-- React.js  
+- React.js  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) React.js
 - Redux Toolkit, Redux-Saga  
 - Styled Components, Tailwind CSS  
 - Git, GitHub  
 - REST APIs  
-- Responsive Design  
+- Responsive Design
+- Jest
