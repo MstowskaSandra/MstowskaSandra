@@ -4,7 +4,8 @@
 
 💻 I work with **JavaScript**, and **React.js** – bringing ideas to life with creativity, enthusiasm, and a love for building beautiful, responsive UIs 🎨✨
 
-🐶 I ran my own dog training school for 5 years as a certified canine behaviorist – now I dream of building an app to help dog owners train their pups 🐕📱
+🐶 I ran my own dog training school for 5 years as a certified canine behaviorist – now I dream of 
+    building an app to help dog owners train their pups 🐕📱
 
 🌍 In my free time, you’ll find me hiking mountain trails with my dog or exploring new places.
 
@@ -17,4 +18,4 @@ I have been actively participating in a frontend development mentoring program s
 regularly improve my skills under the guidance of experienced developers from Devmentor.pl
 
 ### 🛠️ Tech Stack:
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,tailwind,ts,git,github,jest,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,tailwind,ts,git,github,jest,linkedin)](https://skillicons.dev)
