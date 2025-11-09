@@ -29,3 +29,4 @@ regularly improve my skills under the guidance of experienced developers from De
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) GitHub  
 - ![REST API](https://img.shields.io/badge/REST_API-000000?style=plastic) REST APIs  
 - ![Jest](https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=white) Jest
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
