@@ -14,7 +14,7 @@
 ---
 
 ## 🧠 Mentoring
-Started a full-time Frontend mentoring journey under the guidance of devmentor.pl.  
+Started a full-time Frontend mentoring journey under the guidance of [devmentor.pl](https://devmentor.pl). 
 Focused on building real-world projects and improving coding practices in JavaScript, React, HTML, and CSS.  
 The program emphasized: 
 - clean code
