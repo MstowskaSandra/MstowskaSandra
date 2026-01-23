@@ -22,4 +22,4 @@ The program emphasized:
 - technical growth through regular feedback, code reviews, and hands-on learning tasks.
 
 ### 🛠️ Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,tailwind,ts,git,github,jest,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,styledcomponents,tailwind,ts,git,github,jest,linkedin,CMS)](https://skillicons.dev)
